@@ -1,0 +1,4 @@
+kernel,N,flops,bytes,seconds,gflops,ai_flops_per_byte,notes
+matmul_naive,256,,"",0.012,,,"baseline"
+matmul_tiled,512,,"",0.004,,,"T=32"
+dot_product,10000000,,"",0.002,,,"vectorized"

@@ -1,0 +1,23 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Build outputs
+repo/src/*.exe
+repo/src/*.o
+repo/src/*.obj
+repo/src/*.out
+repo/extras/*.exe
+repo/extras/*.o
+repo/extras/*.obj
+repo/extras/*.out
+
+# Perf / temp logs
+repo/reports/**/*.tmp
+*.tmp
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+
