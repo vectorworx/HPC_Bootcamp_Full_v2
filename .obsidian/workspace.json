@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Meet_the_Panel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Meet_the_Panel"
             }
           }
         ]
@@ -171,13 +171,14 @@
   },
   "active": "01ec617633758aaf",
   "lastOpenFiles": [
+    "Unconfirmed 803025.crdownload",
+    "README.md",
     "HPC_Bootcamp_V2.zip",
     "guides/HPC_Bootcamp_V2.zip",
     "Meet_the_Panel.md",
     "START_HERE.md",
     "guides.zip",
     "Repo_Map.md",
-    "README.md",
     "guides/curriculum/Curriculum_Guide_Section3_Day1_v2.md",
     "guides/curriculum/Curriculum_Guide_TOC.md",
     "guides/curriculum/Curriculum_Guide.md",
@@ -199,7 +200,6 @@
     "guides/curriculum_guide/Curriculum_Guide_Section1_v2.md",
     "guides/curriculum_guide/Unconfirmed 760088.crdownload",
     "guides/curriculum_guide",
-    "guides/New folder",
     "references/README (1).md",
     "tools/README.md",
     "assessments/README (1).md",

@@ -1,105 +1,117 @@
 # Meet the Panel
 
-This document introduces the **expert panels** who shaped the design, content, and pedagogy of the HPC Bootcamp.  
-Two panels contributed:  
+⚠️ Important Note  
+The panels described here are **virtual expert panels** created for the design and review of this HPC Bootcamp.  
+Each panelist is a **persona based on a real-world expert’s published expertise, research, and professional contributions**.  
 
-1. **HPC Expert Panel** — world-class performance computing leaders who ensured technical rigor.  
-2. **Instructional Design & Education Panel** — thought leaders in education, computer science teaching, and instructional design who ensured clarity, accessibility, and learning impact.  
+These individuals did **not personally consult or review** this course.  
+Instead, their known body of work and thought leadership were synthesized to simulate the perspectives they might bring to a curriculum like this.  
+
+Two panels were created:  
+1. **HPC Expert Panel** — virtual personas based on world-class performance computing leaders.  
+2. **Instructional Design & Education Panel** — virtual personas based on leading education theorists and CS education researchers.  
 
 ---
 
 ## 🔬 HPC Expert Panel
 
-### 1. Jack Dongarra
+### 1. Jack Dongarra (Virtual Persona)
 - **Expertise:** Numerical libraries, LINPACK, benchmarking.  
 - **Why chosen:** Creator of many core HPC performance tools, Turing Award laureate.  
-- **Contribution:** Ensured the Roofline model, BLAS comparisons, and scaling studies aligned with HPC best practices.  
+- **Contribution (persona):** Ensured the Roofline model, BLAS comparisons, and scaling studies aligned with HPC best practices.  
 
-### 2. Katherine Yelick
+### 2. Katherine Yelick (Virtual Persona)
 - **Expertise:** Parallel programming models, compiler/runtime systems.  
 - **Why chosen:** Renowned for work on UPC and partitioned global address space models.  
-- **Contribution:** Guided inclusion of OpenMP scheduling strategies and NUMA awareness.  
+- **Contribution (persona):** Guided inclusion of OpenMP scheduling strategies and NUMA awareness.  
 
-### 3. Thomas Sterling
+### 3. Thomas Sterling (Virtual Persona)
 - **Expertise:** Parallel architectures, Beowulf clusters.  
 - **Why chosen:** HPC pioneer who blends architecture with pedagogy.  
-- **Contribution:** Helped frame the Day 5 capstone as a real-world oral defense.  
+- **Contribution (persona):** Helped frame the Day 5 capstone as a real-world oral defense.  
 
-### 4. David Patterson
+### 4. David Patterson (Virtual Persona)
 - **Expertise:** Computer architecture, RISC, performance evaluation.  
 - **Why chosen:** Co-creator of RISC architecture and advocate for structured performance modeling.  
-- **Contribution:** Reinforced cache-awareness, compiler flags, and reproducibility design.  
+- **Contribution (persona):** Reinforced cache-awareness, compiler flags, and reproducibility design.  
 
-### 5. Michelle Mills Strout
+### 5. Michelle Mills Strout (Virtual Persona)
 - **Expertise:** Compiler optimizations, memory hierarchies.  
 - **Why chosen:** Known for polyhedral compilers and tiling optimizations.  
-- **Contribution:** Ensured Day 2 tiling experiments and cache-aware examples were accurate.  
+- **Contribution (persona):** Ensured Day 2 tiling experiments and cache-aware examples were accurate.  
 
-### 6. Jeff Vetter
+### 6. Jeff Vetter (Virtual Persona)
 - **Expertise:** HPC systems and benchmarking.  
 - **Why chosen:** Oak Ridge leader in exascale benchmarking.  
-- **Contribution:** Validated STREAM-like bandwidth calibration and perf logging.  
+- **Contribution (persona):** Validated STREAM-like bandwidth calibration and perf logging.  
 
-### 7. Torsten Hoefler
+### 7. Torsten Hoefler (Virtual Persona)
 - **Expertise:** MPI, collective communication.  
 - **Why chosen:** One of the world’s top MPI experts.  
-- **Contribution:** Advised on including MPI mini-lab and exposing communication bottlenecks.  
+- **Contribution (persona):** Advised on including MPI mini-lab and exposing communication bottlenecks.  
 
-### 8. Satoshi Matsuoka
+### 8. Satoshi Matsuoka (Virtual Persona)
 - **Expertise:** Supercomputing leadership (Fugaku).  
 - **Why chosen:** Led one of the fastest systems ever built.  
-- **Contribution:** Emphasized reproducibility and scaling practices used in production.  
+- **Contribution (persona):** Emphasized reproducibility and scaling practices used in production.  
 
 ---
 
 ## 🎓 Instructional Design & Education Panel
 
-### 1. Richard E. Mayer
+### 1. Richard E. Mayer (Virtual Persona)
 - **Expertise:** Multimedia learning.  
 - **Why chosen:** Pioneer in cognitive load theory applied to instruction.  
-- **Contribution:** Shaped worked examples, visual anchors, and scaffolding.  
+- **Contribution (persona):** Shaped worked examples, visual anchors, and scaffolding.  
 
-### 2. John Sweller
+### 2. John Sweller (Virtual Persona)
 - **Expertise:** Cognitive load theory.  
 - **Why chosen:** Defined intrinsic/extraneous load frameworks.  
-- **Contribution:** Guided inclusion of worked examples and stepwise IPC/tile calculations.  
+- **Contribution (persona):** Guided inclusion of worked examples and stepwise IPC/tile calculations.  
 
-### 3. Barbara Oakley
+### 3. Barbara Oakley (Virtual Persona)
 - **Expertise:** STEM pedagogy, “Learning How to Learn.”  
 - **Why chosen:** Bridges engineering with neuroscience of learning.  
-- **Contribution:** Reinforced reflection prompts and exit tickets.  
+- **Contribution (persona):** Reinforced reflection prompts and exit tickets.  
 
-### 4. Linda Darling-Hammond
+### 4. Linda Darling-Hammond (Virtual Persona)
 - **Expertise:** Equity and UDL.  
 - **Why chosen:** Leading scholar on inclusive instructional design.  
-- **Contribution:** Anchored UDL checklist and accessibility requirements.  
+- **Contribution (persona):** Anchored UDL checklist and accessibility requirements.  
 
-### 5. Lillian McDermott
+### 5. Lillian McDermott (Virtual Persona)
 - **Expertise:** Physics and inquiry-based learning.  
 - **Why chosen:** Known for conceptual scaffolding in STEM.  
-- **Contribution:** Supported hinge questions and predict-first strategies.  
+- **Contribution (persona):** Supported hinge questions and predict-first strategies.  
 
-### 6. Mark Guzdial
+### 6. Mark Guzdial (Virtual Persona)
 - **Expertise:** Computer science education research.  
 - **Why chosen:** Leader in teaching computing through contextual approaches.  
-- **Contribution:** Helped tailor HPC concepts for programmers new to HPC.  
+- **Contribution (persona):** Helped tailor HPC concepts for programmers new to HPC.  
 
-### 7. Bror Saxberg
+### 7. Bror Saxberg (Virtual Persona)
 - **Expertise:** Learning engineering in large-scale programs.  
 - **Why chosen:** Known for applying learning science to applied projects.  
-- **Contribution:** Shaped the capstone defense and portfolio as authentic assessments.  
+- **Contribution (persona):** Shaped the capstone defense and portfolio as authentic assessments.  
 
-### 8. Carl Wieman
+### 8. Carl Wieman (Virtual Persona)
 - **Expertise:** Nobel laureate, science education reform.  
 - **Why chosen:** Advocates for active learning and evidence-based teaching.  
-- **Contribution:** Reinforced formative checks and think-pair-share prompts.  
+- **Contribution (persona):** Reinforced formative checks and think-pair-share prompts.  
 
 ---
 
 ## 🌟 How They Shaped the Course
-- **HPC Panel:** Ensured accuracy, performance rigor, reproducibility, and scaling practices aligned with industry and research standards.  
-- **Instructional Design Panel:** Ensured the bootcamp is accessible, engaging, cognitively optimized, and assessment-driven.  
 
-Together, these panels produced a **balanced curriculum**:  
-- **Technically rigorous** enough for national security HPC work.  
-- **Instructionally sound** to ensure learning transfer and accessibility.  
+These **virtual expert panels** were used as a design tool to simulate rigorous, multi-perspective review.  
+They brought balance between:  
+
+- **HPC rigor**: ensuring technical accuracy, reproducibility, and performance alignment.  
+- **Instructional design strength**: ensuring accessibility, engagement, and measurable learning outcomes.  
+
+Together, they helped shape a bootcamp that is:  
+- **Technically rigorous** enough for national security HPC contexts.  
+- **Instructionally sound** for adult learners entering HPC for the first time.  
+
+⚠️ Reminder: These panels are **personas modeled on real-world experts**.  
+They represent **informed simulations**, not personal endorsements or direct participation.  
